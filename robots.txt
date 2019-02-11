@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yafeisee.huntermarcks.net/sitemap.xml
